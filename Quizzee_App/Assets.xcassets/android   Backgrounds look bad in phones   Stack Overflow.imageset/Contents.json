@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "android   Backgrounds look bad in phones   Stack Overflow.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "android   Backgrounds look bad in phones   Stack Overflow@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "android   Backgrounds look bad in phones   Stack Overflow@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
